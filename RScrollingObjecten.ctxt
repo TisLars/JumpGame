@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=snelheid
+comment0.target=void\ scrolling(int)
+comment1.params=snelheid
+comment1.target=void\ scrollingNonCollidable(int)
+numComments=2
